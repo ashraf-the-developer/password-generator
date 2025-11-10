@@ -1,1 +1,1 @@
-passwordgenarator1.netlify.app
+https://passwordgenarator1.netlify.app/
